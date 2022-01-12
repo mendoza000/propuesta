@@ -1,0 +1,19 @@
+.name{
+	text-align: right;
+	color: #34BE82;
+	margin-bottom: -2rem;
+}
+.cs{
+	color: #34be82;
+}
+.bold {
+	font-weight: bold;
+}
+.text-quest{
+	border-bottom: 1px solid #34be82;
+	font-size: 2.1rem;
+	display: inline;
+}
+p{
+	font-size: 2.1rem;
+}
