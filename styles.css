@@ -20,3 +20,38 @@ p{
 .title{
 	letter-spacing: 0.3em !important;
 }
+.icon{
+	height: 6rem;
+	widows: 6rem;
+	position: absolute;
+}
+.icon-js{
+	fill: #F7DF1E;
+	left: 45%;
+	top: -4rem;
+}
+.icon-node{
+	fill: #339933;
+	left: 15%;
+	top: -4rem;
+}
+.icon-react{
+	fill: #61DAFB;
+	left: 75%;
+	top: -4rem;
+}
+.icon-eye{
+	position: initial !important;
+	width: 10rem;
+	height: 10rem;
+	margin-top: -5rem;
+	margin-left: -1rem;
+}
+.icon-eye path{
+	fill: #34BE82;
+}
+.icon-redux{
+	fill: #764ABC;
+	left: 45%;
+	top: -4rem;
+}
