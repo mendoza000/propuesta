@@ -17,6 +17,9 @@
 p{
 	font-size: 2.1rem;
 }
+li{
+	font-size: 2rem;
+}
 .title{
 	letter-spacing: 0.3em !important;
 }
@@ -47,11 +50,28 @@ p{
 	margin-top: -5rem;
 	margin-left: -1rem;
 }
+.icon-eye,
 .icon-eye path{
 	fill: #34BE82;
+	stroke: #34BE82;
 }
 .icon-redux{
 	fill: #764ABC;
 	left: 45%;
+	top: -4rem;
+}
+.icon-paleta{
+	left: 45%;
+	top: -4rem;
+	stroke: #34BE82;
+}
+.icon-telf{
+	left: 15%;
+	top: -4rem;
+	stroke: #34BE82;
+}
+.icon-compu{
+	stroke: #34BE82;
+	left: 75%;
 	top: -4rem;
 }
